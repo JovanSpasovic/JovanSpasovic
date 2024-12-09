@@ -1,4 +1,4 @@
-Computer Science Student and VR Game Developer
+Computer Science Student
 
 <!---
 JovanSpasovic/JovanSpasovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
